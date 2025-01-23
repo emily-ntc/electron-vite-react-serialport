@@ -7,7 +7,7 @@ a simple application to test the successful packaging of serialport within a ele
 git clone https://github.com/emily-ntc/electron-vite-react-serialport.git
 
 # enter the project directory
-cd electron-vite-serialport
+cd electron-vite-react-serialport
 
 # install dependency
 npm install
